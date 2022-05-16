@@ -18,7 +18,7 @@ Every day, I complete a coding challenge to reinforce / grow my skillset. This r
 
 ## Optimizations
 
-I frequently refactor the code for these challenges as I learn more effective methods to solve them. 
+I frequently refactor the code for these challenges as I learn more efficient methods to solve them. 
 
 
 ## Lessons Learned:
