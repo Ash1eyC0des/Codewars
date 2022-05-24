@@ -23,4 +23,4 @@ I frequently refactor the code for these challenges as I learn more efficient me
 
 ## Lessons Learned:
 
-Too many to list here! Completing daily coding challenges has been integral to growth as a software engineer. 
+Too many to list here! Completing daily coding challenges has been integral to my growth as a software engineer. 
