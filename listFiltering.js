@@ -1,0 +1,1 @@
+const filter_list = list => list.filter(x => typeof(x) != 'string')
