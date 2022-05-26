@@ -1,0 +1,1 @@
+const isDivideBy = (n, a, b) => !(n % a) && !(n % b)
