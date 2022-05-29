@@ -1,0 +1,1 @@
+const removeExclamationMarks = string => string.split('!').join('')
