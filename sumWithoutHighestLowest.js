@@ -1,0 +1,1 @@
+const sumArray = arr => !arr || arr.length <= 2 ? 0 : arr.sort((a, b) => a - b).slice(1, -1).reduce((a, b) => a + b)
