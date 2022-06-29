@@ -1,0 +1,1 @@
+const removeSmallest = numbers => numbers.filter((x, i) => i != numbers.indexOf(Math.min(...numbers)))
