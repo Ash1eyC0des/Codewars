@@ -5,11 +5,12 @@ function isValidWalk(walk) {
     let ns = 0
     let ew = 0
     walk.forEach(dir => {
-      dir === 'n' ? ns += 1
-      : dir === 's' ? ns -= 1
-      : dir === 'e' ? ew += 1
-      : dir === 'w' ? ew -= 1
-      : ''
+      switch (dir) {
+        case 'n': ns++; break
+        case 's': ns--; break
+        case 'e': ew++; break
+        case 'w': ew--; break
+      }
     })
     return ns === 0 && ew === 0
   }   
